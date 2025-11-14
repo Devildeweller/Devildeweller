@@ -1,4 +1,7 @@
 # Hi 👋, I'm Rajneesh Chaudhary
+I like solving problems, building systems, and staying dangerously curious.  
+Full-stack by skill, competitive by nature.  
+Here to create, break, and evolve.
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1yAnxRuBY1Ax3dZCIYSRr6Vm6Eo3hF2vt/view?usp=sharing](https://drive.google.com/file/d/1yAnxRuBY1Ax3dZCIYSRr6Vm6Eo3hF2vt/view?usp=sharing)**
 
