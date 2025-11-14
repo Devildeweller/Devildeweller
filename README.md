@@ -30,4 +30,6 @@ Here to create, break, and evolve.
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 </p>
 <h3 align="left">--------</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
