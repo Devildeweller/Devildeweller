@@ -1,3 +1,6 @@
+html[data-color-mode='dark'] {
+  --text-color-normal: hsl(210, 10%, 62%);
+}
 # Hi 👋, I'm Rajneesh Chaudhary
 I like solving problems, building systems, and staying dangerously curious.  
 Full-stack by skill, competitive by nature.  
