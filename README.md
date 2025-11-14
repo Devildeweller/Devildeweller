@@ -8,8 +8,8 @@
     <td style="vertical-align: middle; padding-left: 20px;">
       <p>
       I like solving problems, building systems, and following curiosity wherever it leads.<br><br>
-      I'm grinding CP, playing chess, or getting lost in anime and music.<br><br>
-      Always building, always refining — the cycle of create, break, evolve never stops.
+      When not building, I'm grinding CP, playing chess, or getting lost in anime and music.<br><br>
+      Some days I trade charts, other days I just game and disappear.
       </p>
     </td>
   </tr>
