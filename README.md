@@ -5,11 +5,11 @@
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
     </td>
-    <td>
+    <td style="vertical-align: middle; padding-left: 20px;">
       <p>
-      I like solving problems, building systems, and staying dangerously curious.<br>
-      Full-stack by skill, competitive by nature.<br>
-      Here to create, break, and evolve.
+      I like solving problems, building systems, and following curiosity wherever it leads.<br><br>
+      With a competitive mindset and a full-stack skillset, I enjoy taking ideas from concept to creation.<br><br>
+      Always building, always refining — the cycle of create, break, evolve never stops.
       </p>
     </td>
   </tr>
